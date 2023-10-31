@@ -14,7 +14,7 @@
 // // isAdmin property into the variable isAdmin (false if absent)
 
 // // //Solution >>>
-// // const {name, years, isAdmin} = user;
+// // const {name, years, isAdmin = false} = user;
 // // // ##############################################################################################################################
 
 // // // Exercise 2
